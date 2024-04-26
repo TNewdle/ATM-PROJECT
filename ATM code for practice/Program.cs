@@ -15,6 +15,7 @@ class ATM
 
     static void Main(string[] args)
     {
+        // GenerateAndSaveKey();   THIS IS NOT CURRENTLY WORKING....TROUBLESHOOTING BUG
         LoadUserData(); // Load user data from file
         Console.WriteLine("Welcome to the Newdle Bank ATM");
 
