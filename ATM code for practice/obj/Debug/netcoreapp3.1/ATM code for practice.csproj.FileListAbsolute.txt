@@ -1,0 +1,13 @@
+C:\Users\micha\source\repos\ATM code for practice\ATM code for practice\obj\Debug\netcoreapp3.1\ATM code for practice.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\ATM code for practice\ATM code for practice\obj\Debug\netcoreapp3.1\ATM code for practice.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\ATM code for practice\ATM code for practice\obj\Debug\netcoreapp3.1\ATM code for practice.AssemblyInfo.cs
+C:\Users\micha\source\repos\ATM code for practice\ATM code for practice\obj\Debug\netcoreapp3.1\ATM code for practice.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\ATM code for practice\ATM code for practice\bin\Debug\netcoreapp3.1\ATM code for practice.exe
+C:\Users\micha\source\repos\ATM code for practice\ATM code for practice\bin\Debug\netcoreapp3.1\ATM code for practice.deps.json
+C:\Users\micha\source\repos\ATM code for practice\ATM code for practice\bin\Debug\netcoreapp3.1\ATM code for practice.runtimeconfig.json
+C:\Users\micha\source\repos\ATM code for practice\ATM code for practice\bin\Debug\netcoreapp3.1\ATM code for practice.runtimeconfig.dev.json
+C:\Users\micha\source\repos\ATM code for practice\ATM code for practice\bin\Debug\netcoreapp3.1\ATM code for practice.dll
+C:\Users\micha\source\repos\ATM code for practice\ATM code for practice\bin\Debug\netcoreapp3.1\ATM code for practice.pdb
+C:\Users\micha\source\repos\ATM code for practice\ATM code for practice\obj\Debug\netcoreapp3.1\ATM code for practice.dll
+C:\Users\micha\source\repos\ATM code for practice\ATM code for practice\obj\Debug\netcoreapp3.1\ATM code for practice.pdb
+C:\Users\micha\source\repos\ATM code for practice\ATM code for practice\obj\Debug\netcoreapp3.1\ATM code for practice.genruntimeconfig.cache
